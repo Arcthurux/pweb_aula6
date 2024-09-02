@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(198, 255, 236);
+}
+
+ol.romano {
+    list-style-type: lower-greek;
+    color: blueviolet;
+}
+
+ul.quadrado {
+    list-style-type: disc;
+    color: darkblue;
+}
+
+h1 {
+    color: blue;
+}
